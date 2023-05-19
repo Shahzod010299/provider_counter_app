@@ -1,6 +1,6 @@
-# localiation
+# Provider counter app
 
-A new Flutter project.
+increment and decrement button click change value.
 
 ## Getting Started
 
@@ -14,6 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-![app image]
-(https://github.com/Shahzod010299/provider_counter_app/assets/79000077/e74b0c8b-af19-443f-a8a7-c5606f97f213)
