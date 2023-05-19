@@ -15,6 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://pub.dev/packages/provider![Simulator Screen Shot - iPhone 14 Pro Max - 2023-05-19 at 11 00 12](https://github.com/Shahzod010299/provider_counter_app/assets/79000077/5c31a2aa-9716-40a5-90d1-3acc22bd1c66)
-
-
+![app image]
+(https://github.com/Shahzod010299/provider_counter_app/assets/79000077/e74b0c8b-af19-443f-a8a7-c5606f97f213)
